@@ -6,6 +6,9 @@ module.exports = {
       fontFamily: {
         inter: ["Inter"],
       },
+      colors: {
+        warnaku: "#bada55",
+      },
     },
   },
   plugins: [],
